@@ -9,5 +9,5 @@ Run docker ps to verify containers are up and running
 docker compose down to teardown environment.
 
 # Urls:
-http://localhost:9200/ - for Elasticsearch
-http://localhost:5601/ - for Kibana
+1. http://localhost:9200/ - for Elasticsearch
+2. http://localhost:5601/ - for Kibana
