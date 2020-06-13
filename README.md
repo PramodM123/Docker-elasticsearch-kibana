@@ -1,12 +1,12 @@
 # Docker-elasticsearch-kibana
-docker compose file for running Elasticsearch and Kibana 
+Docker Compose file for running Elasticsearch and Kibana 
 
 # Steps
-Pull the repo
-Navigate to folder
-Run docker compose up -d
-Run docker ps to verify containers are up and running
-docker compose down to teardown environment.
+1. Pull the repo
+2. Navigate to folder
+3. Run docker compose up -d
+4. Run docker ps to verify containers are up and running
+5. docker compose down to teardown environment.
 
 # Urls:
 1. http://localhost:9200/ - for Elasticsearch
